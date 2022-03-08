@@ -1,2 +1,3 @@
-# grants-gov-email-parser
- App for requesting grants information fom Grants.gov emails
+# grants.gov email parser
+
+ This is a flask app which reads grant information from Grants.gov based on email notifications sent by grants.gov.
